@@ -31,7 +31,8 @@ Describe what ML is in 50 words.
 """In 100 words meditate on how future advancements on AI could affect your work practice as a communication designer."""
 
 # i believe that AI will make easier our job but won't be a visual communication designer as itself. a lot of thigs that take our times today,
-# can be done in seconds maybe in the future but
+# can be done in seconds maybe in the future but it won't create something creative and original. maybe AI can have it's own ideas in future
+# but i don't think that it will have emotions and feelings.
 
 """Try to describe how you learn in algorithmic terms."""
 
